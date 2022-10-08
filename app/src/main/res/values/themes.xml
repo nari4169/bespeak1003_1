@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Bespeak1003" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/softBlack</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/poorstory_regular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/softGreen</item>
+        <item name="android:background">@color/softYellow</item>
+        <item name="background">@color/softBlue</item>
+    </style>
+
+    <style name="AlertDialogCustom" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:background">@color/softBlue</item>
+        <item name="android:fontFamily">@font/poorstory_regular</item>
+    </style>
+
+    <style name="ButtonText" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/background_btn</item>
+        <item name="android:fontFamily">@font/poorstory_regular</item>
+    </style>
+
+    <style name="CustomRadioButton" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/white</item>
+        <item name="colorControlNormal">@color/default_color</item>
+        <item name="android:fontFamily">@font/poorstory_regular</item>
+    </style>
+
+    <style name="AppTheme.Custom" parent="Theme.Bespeak1003">
+
+        <item name="md_corner_radius">16dp</item>
+        <item name="md_color_title">@color/softBlue</item>
+        <item name="md_color_content">@color/softBlue</item>
+        <item name="md_color_button_text">@color/softBlue</item>
+        <item name="md_background_color">@color/transParent</item>
+        <item name="md_font_title">@font/poorstory_regular</item>
+        <item name="md_font_body">@font/poorstory_regular</item>
+        <item name="md_font_button">@font/poorstory_regular</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bespeak</string>
+    <string name="Home">Home</string>
+    <string name="productItems">Products</string>
+    <string name="Setting">Setting</string>
+    <string name="OK">OK</string>
+    <string name="titleFinish">Do Finish</string>
+    <string name="mesgFinish">Really Finish ?</string>
+    <string name="Cancel">Cancel</string>
+</resources>

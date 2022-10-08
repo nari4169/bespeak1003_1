@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "316210639333",
+    "firebase_url": "https://admob-app-id-9509058830.firebaseio.com",
+    "project_id": "admob-app-id-9509058830",
+    "storage_bucket": "admob-app-id-9509058830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316210639333:android:0f68dd888e8627138cbf0c",
+        "android_client_info": {
+          "package_name": "com.billcoreatech.bespeak1003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316210639333-nt2hp4viiiqngp4cd86rt8rm14hpk359.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcoreatech.bespeak1003",
+            "certificate_hash": "93f10dbce0883c0e0f1ad8577a81abd5e656e37a"
+          }
+        },
+        {
+          "client_id": "316210639333-vj34r17k27rd2hqkkdpnjfa5mij48rer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-4bJ0ei8VtAWByXuS90w4E76reUSJOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316210639333-vj34r17k27rd2hqkkdpnjfa5mij48rer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316210639333:android:86c03dd13c6d28d2",
+        "android_client_info": {
+          "package_name": "com.nari.mprc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316210639333-179bb1lq9u0hlc054n0gq4hdk9q0lqbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nari.mprc",
+            "certificate_hash": "81a8bad7dad512329bec821f607a5df4c0029b7c"
+          }
+        },
+        {
+          "client_id": "316210639333-6gu9j9pqhghd6dthqeqcmj6k6nblcg1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nari.mprc",
+            "certificate_hash": "1287a6cf3cec55655bac73d68d7caea2620a8058"
+          }
+        },
+        {
+          "client_id": "316210639333-vj34r17k27rd2hqkkdpnjfa5mij48rer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-4bJ0ei8VtAWByXuS90w4E76reUSJOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316210639333-vj34r17k27rd2hqkkdpnjfa5mij48rer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

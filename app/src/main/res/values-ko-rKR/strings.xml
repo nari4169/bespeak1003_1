@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">주문이요</string>
+    <string name="Home">우리집</string>
+    <string name="productItems">상품</string>
+    <string name="Setting">설정</string>
+    <string name="OK">확인</string>
+    <string name="Cancel">취소</string>
+    <string name="titleFinish">종료확인</string>
+    <string name="mesgFinish">정말로 사용을 중지 할까요?</string>
+</resources>
