@@ -1,4 +1,4 @@
-# bespeak1003_1
+# bottom navigation sample
 first
 
 이 프로젝트는 https://billcorea.tistory.com/263 포스팅된 글에 참고가 되는 source code 가 적용 되어 있습니다. 
